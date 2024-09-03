@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="Blok.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Komentar.kt" afterDir="false" />
+    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="Komentar.kt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.KomentarKt">
+  <component name="RunManager" selected="Kotlin.VariabelKt">
     <configuration name="BlokKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -64,8 +64,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.KomentarKt" />
         <item itemvalue="Kotlin.BlokKt" />
         <item itemvalue="Kotlin.LiteralKt" />
@@ -110,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725341033402</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Komentar.kt">
+      <created>1725341446741</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725341446741</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +145,7 @@
     <MESSAGE value="MainApp.kt" />
     <MESSAGE value="Literal.kt" />
     <MESSAGE value="Blok.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blok.kt" />
+    <MESSAGE value="Komentar.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Komentar.kt" />
   </component>
 </project>
