@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="VarVariabel.kt">
+    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="ValVariabel.kt">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/VarVariabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/VarVariabel.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +35,9 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ValVariabelKt">
-    <configuration name="KomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KomentarKt" />
+  <component name="RunManager" selected="Kotlin.TipeDataKt">
+    <configuration name="TipeDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipeDataKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TipeDataKt" />
         <item itemvalue="Kotlin.ValVariabelKt" />
         <item itemvalue="Kotlin.VarVariabelKt" />
         <item itemvalue="Kotlin.VariabellKt" />
         <item itemvalue="Kotlin.VariabelKt" />
-        <item itemvalue="Kotlin.KomentarKt" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725346894500</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ValVariabel.kt">
+      <created>1725347261157</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725347261157</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +177,8 @@
     <MESSAGE value="Variabel.kt" />
     <MESSAGE value="Variabell.kt" />
     <MESSAGE value="VarVariabel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="VarVariabel.kt" />
+    <MESSAGE value="ValVariabel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="ValVariabel.kt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DasarPemrogramanKotlin5C$ValVariabelKt.ic" NAME="ValVariabelKt Coverage Results" MODIFIED="1725346694671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
