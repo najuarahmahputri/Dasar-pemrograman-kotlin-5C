@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="TipeDataDesimal.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConstantsLiteral.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="ConstantsLiteral.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/UnderscoreLiteral.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ConstantsLiteralKt">
+  <component name="RunManager" selected="Kotlin.UnderscoreLiteralKt">
     <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -58,6 +57,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UnderscoreLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnderscoreLiteralKt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValVariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ValVariabelKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -65,20 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarVariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarVariabelKt" />
-      <module name="DasarPemrogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.UnderscoreLiteralKt" />
         <item itemvalue="Kotlin.ConstantsLiteralKt" />
         <item itemvalue="Kotlin.TipeDataDesimalKt" />
         <item itemvalue="Kotlin.TipeDataKt" />
         <item itemvalue="Kotlin.ValVariabelKt" />
-        <item itemvalue="Kotlin.VarVariabelKt" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725349784478</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ConstantsLiteral.kt">
+      <created>1725366165589</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725366165589</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +201,8 @@
     <MESSAGE value="ValVariabel.kt" />
     <MESSAGE value="TipeData.kt" />
     <MESSAGE value="TipeDataDesimal.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="TipeDataDesimal.kt" />
+    <MESSAGE value="ConstantsLiteral.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="ConstantsLiteral.kt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DasarPemrogramanKotlin5C$ValVariabelKt.ic" NAME="ValVariabelKt Coverage Results" MODIFIED="1725346694671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
