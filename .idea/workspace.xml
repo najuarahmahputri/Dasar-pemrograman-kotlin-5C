@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="Variabell.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ValVariabel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/VarVariabel.kt" afterDir="false" />
+    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="VarVariabel.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeData.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/VarVariabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/VarVariabel.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725343775209</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="VarVariabel.kt">
+      <created>1725346894500</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725346894500</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +171,10 @@
     <MESSAGE value="Komentar.kt" />
     <MESSAGE value="Variabel.kt" />
     <MESSAGE value="Variabell.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variabell.kt" />
+    <MESSAGE value="VarVariabel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="VarVariabel.kt" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DasarPemrogramanKotlin5C$ValVariabelKt.ic" NAME="ValVariabelKt Coverage Results" MODIFIED="1725346694671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
