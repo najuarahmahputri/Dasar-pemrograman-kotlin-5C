@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="Variabel.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variabell.kt" afterDir="false" />
+    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="Variabell.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ValVariabel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/VarVariabel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +37,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.VariabellKt">
-    <configuration name="BlokKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BlokKt" />
-      <module name="DasarPemrogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.ValVariabelKt">
     <configuration name="KomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KomentarKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -51,8 +45,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralKt" />
+    <configuration name="ValVariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValVariabelKt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarVariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarVariabelKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ValVariabelKt" />
+        <item itemvalue="Kotlin.VarVariabelKt" />
         <item itemvalue="Kotlin.VariabellKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.KomentarKt" />
-        <item itemvalue="Kotlin.BlokKt" />
-        <item itemvalue="Kotlin.LiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725343402485</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Variabell.kt">
+      <created>1725343775209</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725343775209</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +163,7 @@
     <MESSAGE value="Blok.kt" />
     <MESSAGE value="Komentar.kt" />
     <MESSAGE value="Variabel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variabel.kt" />
+    <MESSAGE value="Variabell.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variabell.kt" />
   </component>
 </project>
