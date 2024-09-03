@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="TipeData.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TipeDataDesimal.kt" afterDir="false" />
+    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="TipeDataDesimal.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConstantsLiteral.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,14 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TipeDataDesimalKt">
+  <component name="RunManager" selected="Kotlin.ConstantsLiteralKt">
+    <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TipeDataDesimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TipeDataDesimalKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -65,20 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariabellKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariabellKt" />
-      <module name="DasarPemrogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ConstantsLiteralKt" />
         <item itemvalue="Kotlin.TipeDataDesimalKt" />
         <item itemvalue="Kotlin.TipeDataKt" />
         <item itemvalue="Kotlin.ValVariabelKt" />
         <item itemvalue="Kotlin.VarVariabelKt" />
-        <item itemvalue="Kotlin.VariabellKt" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725348194010</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="TipeDataDesimal.kt">
+      <created>1725349784478</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725349784478</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,7 +194,8 @@
     <MESSAGE value="VarVariabel.kt" />
     <MESSAGE value="ValVariabel.kt" />
     <MESSAGE value="TipeData.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="TipeData.kt" />
+    <MESSAGE value="TipeDataDesimal.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="TipeDataDesimal.kt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DasarPemrogramanKotlin5C$ValVariabelKt.ic" NAME="ValVariabelKt Coverage Results" MODIFIED="1725346694671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
