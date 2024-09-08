@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="UnderscoreLiteral.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Representasi.kt" afterDir="false" />
+    <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="Representasi.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean (true or false).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Character (Char).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi Anggota pada String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KonversiEksplisit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan Konversi Eksplisit pada Char.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Perintah Masukan di Kotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Caesar Chiper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Kalkulator Sederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Sandi Morse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String (Array of Character).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String Templates.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Strung.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/contohprogramPerintahMasukandiKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rawstring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tidakdalamrawstring.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,44 +44,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.RepresentasiKt">
-    <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
+}</component>
+  <component name="RunManager" selected="Kotlin.Program_Kalkulator_SederhanaKt">
+    <configuration name="ContohprogramPerintahMasukandiKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContohprogramPerintahMasukandiKotlinKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
+    <configuration name="Perintah_Masukan_di_KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Perintah_Masukan_di_KotlinKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataDesimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataDesimalKt" />
+    <configuration name="Program_Caesar_ChiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program_Caesar_ChiperKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataKt" />
+    <configuration name="Program_Kalkulator_SederhanaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program_Kalkulator_SederhanaKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderscoreLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnderscoreLiteralKt" />
+    <configuration name="Program_Sandi_MorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program_Sandi_MorseKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.RepresentasiKt" />
-        <item itemvalue="Kotlin.UnderscoreLiteralKt" />
-        <item itemvalue="Kotlin.ConstantsLiteralKt" />
-        <item itemvalue="Kotlin.TipeDataDesimalKt" />
-        <item itemvalue="Kotlin.TipeDataKt" />
+        <item itemvalue="Kotlin.Program_Kalkulator_SederhanaKt" />
+        <item itemvalue="Kotlin.ContohprogramPerintahMasukandiKotlinKt" />
+        <item itemvalue="Kotlin.Perintah_Masukan_di_KotlinKt" />
+        <item itemvalue="Kotlin.Program_Sandi_MorseKt" />
+        <item itemvalue="Kotlin.Program_Caesar_ChiperKt" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725366599022</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Representasi.kt">
+      <created>1725367654914</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725367654914</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +233,8 @@
     <MESSAGE value="TipeDataDesimal.kt" />
     <MESSAGE value="ConstantsLiteral.kt" />
     <MESSAGE value="UnderscoreLiteral.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="UnderscoreLiteral.kt" />
+    <MESSAGE value="Representasi.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Representasi.kt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DasarPemrogramanKotlin5C$ValVariabelKt.ic" NAME="ValVariabelKt Coverage Results" MODIFIED="1725346694671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
