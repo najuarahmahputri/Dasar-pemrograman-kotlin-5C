@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acf64b7e-bef6-4ca6-b36f-55b8807b7f58" name="Changes" comment="Representasi.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean (true or false).kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Character (Char).kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi Anggota pada String.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KonversiEksplisit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan Konversi Eksplisit pada Char.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan String.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Perintah Masukan di Kotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Caesar Chiper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Kalkulator Sederhana.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Sandi Morse.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String (Array of Character).kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String Templates.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Strung.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/contohprogramPerintahMasukandiKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rawstring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tidakdalamrawstring.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/String (Array of Character).kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/String (Array of Character).kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
